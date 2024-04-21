@@ -1,2 +1,2 @@
 # cube
-Container Orchestrator written in Go
+Barebones Container Orchestrator written in Go,
